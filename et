@@ -1,0 +1,29 @@
+[33mcommit 16513a89352d86e745d4aff118607b496118f8b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maa/add-meta-tags[m[33m)[m
+Author: Rajbir-dev <Rajbir62800@gmail.com>
+Date:   Sat Jul 5 09:06:05 2025 +0000
+
+    Add favicon and meta image
+
+[33mcommit 735e918f03c47eb9341c9c16cfc87d1a1fd93f12[m
+Author: Rajbir-dev <Rajbir62800@gmail.com>
+Date:   Sat Jul 5 08:57:55 2025 +0000
+
+    added meta tags
+
+[33mcommit dc93543a2f38641dc79914d275947a3e1c8af3bc[m
+Author: Rajbir-dev <Rajbir62800@gmail.com>
+Date:   Sat Jul 5 08:56:10 2025 +0000
+
+    added title and favicon
+
+[33mcommit 5d9d25781ad5c3dded78f3b0a44da41d7f7e0415[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Rajbir-dev <Rajbir62800@gmail.com>
+Date:   Fri Jul 4 09:01:31 2025 +0000
+
+    Adding the HTML and CSS files
+
+[33mcommit 19a253e74c066d89b7e8775edca0b9d4a89f0465[m
+Author: Rajbir-dev <Rajbir62800@gmail.com>
+Date:   Fri Jul 4 10:41:43 2025 +0530
+
+    Initial commit
